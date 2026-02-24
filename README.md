@@ -99,7 +99,11 @@ Do not use your normal Gmail password.
 - On hosted environments, long mashup requests may take time.
 - Keep secrets only in environment variables (never hardcode passwords).
 
+<img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/5583f8ff-19c6-4935-9557-ca331e130339" />
+
+
 ## Submission Checklist
 - Program 1: submit `102317160.py`
 - Program 2: submit deployed web app link
 - Keep a sample generated output file for demonstration/testing
+
