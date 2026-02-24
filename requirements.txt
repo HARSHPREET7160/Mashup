@@ -1,0 +1,6 @@
+﻿yt-dlp
+moviepy
+flask
+email-validator
+imageio-ffmpeg
+gunicorn
